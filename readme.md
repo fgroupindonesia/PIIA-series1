@@ -1,4 +1,6 @@
 
+![Preview](misc/_screenshot.jpg)
+
 ## Welcome
 
 Assalamu'alaikum warahmatullah!
