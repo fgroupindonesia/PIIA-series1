@@ -1,4 +1,4 @@
 git add .
-git commit -m "updating 13 : wudhu and 14 : shalat "
+git commit -m "updating chapter 15,16,17 about prophet muhammad "
 git push origin master
 git gc --prune
