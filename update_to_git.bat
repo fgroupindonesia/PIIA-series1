@@ -1,4 +1,4 @@
 git add .
-git commit -m "adding new chapter 21, beberapa surat Quran."
+git commit -m "adding new chapter 22, Dzikir & Doa."
 git push origin master
 git gc --prune
