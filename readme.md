@@ -5,6 +5,8 @@
 
 Assalamu'alaikum warahmatullah!
 
+Walhamdulillah
+
 dan, Selamat datang!
 
 Bagian ini merupakan salah satu kumpulan kerja dari klub menulis FGroupIndonesia dengan tema **Pendekatan Iman Islam untuk Anak-anak**.
